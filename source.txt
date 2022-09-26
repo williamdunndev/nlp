@@ -1,0 +1,3 @@
+This is some example text. This sentence is about Elizabeth. Elizabeth lives in London. Mr Smith is Elizabeth's brother, his full name is John Smith.
+John works for CACI in the Bristol office; he earns £28,000 per year as a graduate developer. Sometimes he works at the Cheltenham or York offices.
+
